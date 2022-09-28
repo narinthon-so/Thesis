@@ -1,7 +1,8 @@
 <h1>โรงเพาะเห็ดอัจฉริยะโดยใช้เทคโนโลยีการสื่อสารไร้สายระยะไกล</h1>
 <h1>Smart Mushroom Farm using Long Range Wireless Communication Technology</h1>
 
-https://youtu.be/-PhXyaIOUQ4
+vdo สาธิตการใช้งาน => https://youtu.be/-PhXyaIOUQ4
+main repo => https://github.com/narinthon-so/Mushroom-project
 
 <h2>บทคัดย่อ</h2>
 
